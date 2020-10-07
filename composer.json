@@ -1,0 +1,25 @@
+{
+  "name": "marko/ship-crew-notification",
+  "authors": [
+    {
+      "name": "Marko Jovicic",
+      "email": "markoj2203@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {
+    "symfony/http-foundation": "^5.1",
+    "vlucas/phpdotenv": "^5.2",
+    "symfony/orm-pack": "^2.0",
+    "symfony/console": "^5.1",
+    "symfony/dotenv": "^5.1",
+    "php-di/php-di": "^6.2",
+    "symfony/dependency-injection": "^5.1",
+    "symfony/config": "^5.1",
+    "doctrine/annotations": "^1.10"
+  }
+}
