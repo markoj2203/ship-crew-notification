@@ -1,7 +1,3 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 
 Use the package composer (https://getcomposer.org/installer) to install app dependencies.
